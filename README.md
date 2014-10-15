@@ -1,7 +1,7 @@
 validation-example
 ======================
 
-Simple validation example with html, css, javascript, php
+Validation example with html, css, javascript and php.
 
 Developer
 ---------
